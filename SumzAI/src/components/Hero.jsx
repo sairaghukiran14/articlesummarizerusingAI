@@ -9,11 +9,11 @@ const Hero = () => {
         <button
           type="button"
           onClick={() => {
-            window.open("www.google.com");
+            window.open("https://openai.com");
           }}
           className="black_btn"
         >
-          Youtube Video Summarize
+          OpenAI Website
         </button>
       </nav>
       <h1 className="head_text">
